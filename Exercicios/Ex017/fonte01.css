@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    /*safe combinations*/
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 1em;
+}
+h1{
+    /*shorthand*/
+    font: italic bolder 3em arial, sans-serif;
+}
